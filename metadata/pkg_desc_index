@@ -1,4 +1,4 @@
 app-backup/borgbackup 2.0.0_beta8: Deduplicating backup program with compression and authenticated encryption
-media-libs/svt-av1 2.0.0: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
+media-libs/svt-av1 2.0.0 2.1.0_rc2: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 sys-apps/progress 0.17: Coreutils Viewer: show progress for cp, rm, dd, and so forth
 sys-fs/ddrescue 1.28: Copy data from one file or block device to another with read-error recovery
