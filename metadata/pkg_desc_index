@@ -1,3 +1,4 @@
+app-arch/7zip 24.05: Free file archiver for extremely high compression
 app-backup/borgbackup 2.0.0_beta8: Deduplicating backup program with compression and authenticated encryption
 media-libs/svt-av1 2.0.0 2.1.0_rc2: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
 sys-apps/progress 0.17: Coreutils Viewer: show progress for cp, rm, dd, and so forth
