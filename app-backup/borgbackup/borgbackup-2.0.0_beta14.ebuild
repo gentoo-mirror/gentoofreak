@@ -31,7 +31,7 @@ RDEPEND="
 	app-arch/zstd
 	virtual/acl
 	dev-python/pyfuse3[${PYTHON_USEDEP}]
-	~dev-python/msgpack-1.0.7[${PYTHON_USEDEP}]
+	~dev-python/msgpack-1.1.0[${PYTHON_USEDEP}]
 	dev-python/xxhash[${PYTHON_USEDEP}]
 	dev-python/argon2-cffi[${PYTHON_USEDEP}]
 	dev-libs/openssl:0=
