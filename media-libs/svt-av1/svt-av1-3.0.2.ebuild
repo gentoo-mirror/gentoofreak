@@ -23,7 +23,7 @@ fi
 LICENSE="BSD-2 Apache-2.0 BSD ISC LGPL-2.1+ MIT"
 SLOT="0"
 
-BDEPEND="amd64? ( dev-lang/yasm )"
+BDEPEND="amd64? ( dev-lang/yasm ) dev-libs/cpuinfo"
 
 multilib_src_configure() {
 	append-ldflags -Wl,-z,noexecstack
